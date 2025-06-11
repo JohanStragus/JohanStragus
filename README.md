@@ -1,5 +1,10 @@
 # 💫 About Me:
-🏫 Actualmente estoy estudiando<br>🔎 Busco realizar prácticas como Data Analyst<br>🏆 Estoy desarrollando proyectos personales<br>💭 ¡Pregúntame lo que quieras!<br>⚡ Fun fact : No me gusta hacer DROP DATABASE
+
+- 🏫 Actualmente estoy estudiando  
+- 🔎 Busco realizar prácticas como Data Analyst  
+- 🏆 Estoy desarrollando proyectos personales  
+- 💭 ¡Pregúntame lo que quieras!  
+- ⚡ *Fun fact:* No me gusta hacer `DROP DATABASE`
 
 
 ## 🌐 Socials:
