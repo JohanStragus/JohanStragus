@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanStragus&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" width="50.75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanStragus&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="50.75%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanStragus&theme=transparent&hide_border=false&layout=compact" width="40%" />
 </p>
 
