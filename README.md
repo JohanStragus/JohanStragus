@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 🏫 Actualmente estoy estudiando  
-- 🔎 Busco realizar prácticas como Data Analyst  
-- 🏆 Estoy desarrollando proyectos personales  
-- 💭 ¡Pregúntame lo que quieras!  
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web
+- 🔎 Buscando oportunidades como Junior Data Analyst / BI Analyst
+- 📊 Experiencia con Power BI, SQL, ETL y análisis de datos
+- 🏆 Desarrollando proyectos personales de Data Analytics y Business Intelligence
 - ⚡ *Fun fact:* No me gusta hacer `DROP DATABASE`
 
 
