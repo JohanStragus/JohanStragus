@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanStragus&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="50.75%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanStragus&theme=transparent&hide_border=false&layout=compact" width="40%" />
+  <img src="./profile/stats.svg" width="50.75%" alt="GitHub Stats de JohanStragus" />
+  <img src="./profile/top-langs.svg" width="40%" alt="Lenguajes más utilizados por JohanStragus" />
 </p>
 
 ### ✍️ Random Dev Quote
