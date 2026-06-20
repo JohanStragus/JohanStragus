@@ -18,12 +18,16 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="./profile/stats.svg" width="50.75%" alt="GitHub Stats de JohanStragus" />
-  <img src="./profile/top-langs.svg" width="40%" alt="Lenguajes más utilizados por JohanStragus" />
+  <img align="top" src="./profile/stats.svg" width="52.75%" alt="GitHub Stats de JohanStragus" />
+  <img align="top" src="./profile/top-langs.svg" width="40%" alt="Lenguajes más utilizados por JohanStragus" />
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github&border=true" width="72%" alt="Random Dev Quote" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JohanStragus&icon=0&color=0)](https://visitcount.itsvg.in)
